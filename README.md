@@ -1,2 +1,2 @@
 # PowerBI
-All my Power BI experiments, questions
+All my Power BI experiments, questions, demos
